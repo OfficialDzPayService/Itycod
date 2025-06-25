@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: itycod
+Plugin Name: DevITY
 Description: Add one-page checkout on single product page using WooCommerce.
 Version: 4.7
-Author: K.REDHA
+Author: F.Sidali
 */
 // Exit if accessed directly
 if (!defined('ABSPATH')) {
